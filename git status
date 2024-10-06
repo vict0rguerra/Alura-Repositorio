@@ -1,0 +1,31 @@
+[33mcommit 7e215d114720c117076fb9e46fdc4ed693a5ec45[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: VictorGuerra <Victorguerra2310@gmail.com>
+Date:   Sun Oct 6 14:37:32 2024 -0300
+
+    remove_titulo
+
+[33mcommit 5282d7d233e8b7c67818fa025b2def3f8c77e791[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VictorGuerra <Victorguerra2310@gmail.com>
+Date:   Sun Oct 6 14:33:26 2024 -0300
+
+    Revert "numero_secreto"
+    
+    This reverts commit 47bc9187e33d89da7c16f3ce85fa5e48c48c28d2.
+
+[33mcommit 47bc9187e33d89da7c16f3ce85fa5e48c48c28d2[m
+Author: VictorGuerra <Victorguerra2310@gmail.com>
+Date:   Sun Oct 6 14:22:42 2024 -0300
+
+    numero_secreto
+
+[33mcommit 2ba665a1deae321b31759b886b365ea317f0361c[m
+Author: VictorGuerra <Victorguerra2310@gmail.com>
+Date:   Sun Oct 6 14:01:17 2024 -0300
+
+    alura_repositorio
+
+[33mcommit 5c3db55484765a1af1afe43594f33591fc25da5f[m
+Author: VictorGuerra <Victorguerra2310@gmail.com>
+Date:   Sun Oct 6 13:56:09 2024 -0300
+
+    Initial commit
