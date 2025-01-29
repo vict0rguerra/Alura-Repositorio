@@ -1,8 +1,4 @@
 let jogosAlugados = 1
-
-
-
-
 function alterarStatus(id){
     let escolhaGame = document.getElementById(`game-${id}`)
     let imagem = escolhaGame.querySelector('.dashboard__item__img')

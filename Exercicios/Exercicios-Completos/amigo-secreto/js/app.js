@@ -17,7 +17,7 @@ if (nome !== "") {
 // Função para atualizar a lista de amigos no HTML
 function atualizarLista() {
 const listaAmigos = document.getElementById('lista-amigos');
-listaAmigos.innerHTML = amigos.join(', '); // Exibe os nomes separados por vírgula
+listaAmigos.innerHTML = amigos.join(','); // Exibe os nomes separados por vírgula
 }
 
 // Função para sortear o Amigo Secreto
